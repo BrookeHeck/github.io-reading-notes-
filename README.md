@@ -1,9 +1,7 @@
-# github.io/reading-notes-
+# # Code 201 Reading Notes
 The following is reading assignment notes for the following Code Fellows Course, *Code 201 Foundations of Software Development*.
 
-# Code 201 Reading Notes
-
-1. [Reading One](#One)
+1. [01 - Introductory HTML and JavaScript](./intro-HTML-JS.md#heading)
 2. [Reading Two](#Two)
 3. [Reading Three](#Three)
 4. [Reading Four](#Four)
@@ -18,51 +16,5 @@ The following is reading assignment notes for the following Code Fellows Course,
 3. [Reading Thirteen](#Thirteen)
 3. [Reading Fourteen](#Fourteen)
 3. [Reading Fifteen](#Fifteen)
-
-
-## **1 Reading Notes** <a name="One"></a>
-- Notes...
-
-## **2 Reading Notes** <a name="Two"></a>
-- Notes...
-
-## **3 Reading Notes** <a name="Three"></a>
-- Notes...
-
-## **4 Reading Notes** <a name="Four"></a>
-- Notes...
-
-## **5 Reading Notes** <a name="Five"></a>
-- Notes...
-
-## **6 Reading Notes** <a name="Six"></a>
-- Notes...
-
-## **7 Reading Notes** <a name="Seven"></a>
-- Notes...
-
-## **8 Reading Notes** <a name="Eight"></a>
-- Notes...
-
-## **9 Reading Notes** <a name="Nine"></a>
-- Notes...
-
-## **10 Reading Notes** <a name="Ten"></a>
-- Notes...
-
-## **11 Reading Notes** <a name="Eleven"></a>
-- Notes...
-
-## **12 Reading Notes** <a name="Twelve"></a>
-- Notes...
-
-## **13 Reading Notes** <a name="Thirteen"></a>
-- Notes...
-
-## **14 Reading Notes** <a name="Fourteen"></a>
-- Notes...
-
-## **15 Reading Notes** <a name="Fifteen"></a>
-- Notes...
 
 
