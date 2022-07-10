@@ -1,5 +1,5 @@
 # Introductory HTML and JavaScript
 
 
-## <a id="heading">**01 - Introductory HTML and JavaScript** </a>
+## <a id="heading">**Reading Assignment One** </a>
 - Notes...
