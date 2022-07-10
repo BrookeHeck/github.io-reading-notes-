@@ -1,4 +1,4 @@
-# github.io-reading-notes-
+# github.io/reading-notes-
 The following is reading assignment notes for the following Code Fellows Course, *Code 201 Foundations of Software Development*.
 
 # Code 201 Reading Notes
