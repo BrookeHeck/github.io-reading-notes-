@@ -1,7 +1,7 @@
 # Code 201 Reading Notes
 The following is reading assignment notes for the Code Fellows Course, *Code 201 Foundations of Software Development*.
 
-1. [01 - Introductory HTML and JavaScript](./intro-HTML-JS.md)
+1. [01 - Introductory HTML and JavaScript](./class-01.md)
 2. [Reading Two](#Two)
 3. [Reading Three](#Three)
 4. [Reading Four](#Four)
