@@ -54,6 +54,9 @@
 - used with web browser APIs, third-party APIs, and third-party frameworks
 
 ### Links for this Section
+[Getting Started With the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) </br>
+[How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) </br>
+[JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) </br>
 
 ## Introduction to HTML
 
@@ -64,13 +67,11 @@
   1. opening tag: name of element wrapped in brackets, marks beginning of element
   2. content: what ever data you want inside the element
   3. closing tag: sam as opening tag but marks the end of an element
-  ```
-  <p/> this is my HTML element example <p>
-  ```
+  ``` <p/> this is my HTML element example <p> ```
 - Elements can be placed inside of elements, called nesting, don't overlap opening/closing tags
 - Block level elements: appears on a new line and takes up the entire width of the parent element
 - Inline elements: appear on the same line within the parent and only take up the width of that element
-- Attributes contain extra information about the element, don't appear in content but help with markup</br>
+- Attributes contain extra information about the element, don't appear in content but help with markup
 
 - Anatomy of an HTML Document
   1. ``` <DOCTYPE htmL> ```
@@ -105,10 +106,10 @@ subsections can include articles, sections and divs
 
 
 ### Links for this Section
-[Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-[Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-[Document and Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
-[What's in the head? Metadat in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
+[Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) </br>
+[Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started) </br>
+[Document and Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) </br>
+[What's in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML) </br>
 
 
 ## Miscellaneous
