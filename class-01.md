@@ -53,19 +53,66 @@
 - JavaScript is a programming language that adds interactivity to a website
 - used with web browser APIs, third-party APIs, and third-party frameworks
 
+### Links for this Section
+
 ## Introduction to HTML
 
 ### Getting Started with HTML
+- HTML is a markup language used to struchture web pages
+- consists of elements used to enclose, wrap, or makr up different content
+- Anatomy of an element
+  1. opening tag: name of element wrapped in brackets, marks beginning of element
+  2. content: what ever data you want inside the element
+  3. closing tag: sam as opening tag but marks the end of an element
+  ```
+  <p/> this is my HTML element example <p>
+  ```
+- Elements can be placed inside of elements, called nesting, don't overlap opening/closing tags
+- Block level elements: appears on a new line and takes up the entire width of the parent element
+- Inline elements: appear on the same line within the parent and only take up the width of that element
+- Attributes contain extra information about the element, don't appear in content but help with markup</br>
+
+- Anatomy of an HTML Document
+  1. ``` <DOCTYPE htmL> ```
+  2. ``` <htmL></html> ``` wraps all the content on the page, root element
+  3. ``` <head></head> ``` container for things that aren't content; keywords, CSS style content, character set declarations
+  4. ``` <meta charset="utf-8"> ```
+  5. ``` <title></title> ``` sets the title of the page that appears on the browser tab
+  6. ``` <body></body> ``` displays all content on the page; tet, images, videos, games, audio and anything else</br>
+
+- Entity References are special codes that represent characters
+``` &alt; ```
+- HTML Comments
+``` <!-- this is a comment that does not appear on the webpage but includes helpful information --> ```
 
 ### Document and Website Structure
+- header, ``` <header></header> ``` 
+- navigation bar ``` <nav></nav> ```
+- main content ``` <main></main> ```
+subsections can include articles, sections and divs
+- sidebar ``` <aside></aside> ```
+- footer ``` <footer></footer> ```
+
+
 
 ### What's in the head? Metadata in HTML
+- the head contains metadata that is not displayed on the webpage
+- the title goes in the head, not to be confused with h1, which goes in the body
+- the metadata is data that describes data, the meta tag is HTML's way of adding metadata
+- some meta elements contain name and content attributes<
+- a favicon will add an icon to the link when saved as bookmark
+- link and script are common in the header to include CSS and JS
+
 
 ### Links for this Section
 [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+[Getting Started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+[Document and Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+[What's in the head? Metadat in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
 
 
 ## Miscellaneous
 
 ## Things I want to know more about
 - I have much more of a coding background than a networking background. I do know that sending data back and forth is important part of being able to provide the source code and data to the user. I would like to know more about internet protocols and how requests are made and fulfilled.
+- Working with API's is such an important part of web development. I would like to know about the ins and outs of how APIs work and how to use them.
