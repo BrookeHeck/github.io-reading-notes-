@@ -50,5 +50,19 @@
   
   
 ### Javascript basics
+- JavaScript is a programming language that adds interactivity to a website
+- used with web browser APIs, third-party APIs, and third-party frameworks
+
+## Introduction to HTML
+
+### Getting Started with HTML
+
+### Document and Website Structure
+
+### What's in the head? Metadata in HTML
+
+
+## Miscellaneous
 
 ## Things I want to know more about
+- I have much more of a coding background than a networking background. I do know that sending data back and forth is important part of being able to provide the source code and data to the user. I would like to know more about internet protocols and how requests are made and fulfilled.
