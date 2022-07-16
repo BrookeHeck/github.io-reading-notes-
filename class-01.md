@@ -2,12 +2,18 @@
 
 ## Getting Started
 1. Compose a short poem describing how HTTP sends data between computers.
-Make a request to the DNS </br>
-Receive the IP address </br>
-Send the server an HTTP request </br>
-A 200 OK means you can access </br>
-The server sends the browser files to process </br>
-The browser assembles to visually express </br>
+Make a request to the DNS
+\
+Receive the IP address
+\
+Send the server an HTTP request
+\
+A 200 OK means you can access
+\
+The server sends the browser files to process
+\
+The browser assembles to visually express
+\
 
 
 2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
@@ -18,13 +24,23 @@ The browser assembles to visually express </br>
 - [Unsplash](https://unsplash.com/) is a really cool website that has thousands of free images that can be used.
 
 4. How do you create a String vs a Number in JavaScript?
-- A string should have quotes (single and double both work in javascript) </br>
+- A string should have quotes (single and double both work in javascript)
+\
 ``` let str = 'This is how to make a string'; ```
-- Numbers don't have quotes </br>
+- Numbers don't have quotes
+\
 ``` let num = 19; ```
 
 5. What is a Variable and why are they important in JavaScript?
 - Variables are used to store values in JavaScript. Variables allow us to write dynamic code that changes variables. This makes programs interactive or personalized.
+
+## Introduction to HTML
+1. What is an HTML attribute?
+2. Describe the Anatomy of an HTMl element.
+3. What is the Difference between <article> and <section> element tags?
+4. What Elements does a “typical” website include?
+5. How does metadata influence Search Engine Optimization?
+6. How is the <meta> HTML tag used when specifying metadata?
 
 ## Things I want to know more about
 - I have much more of a coding background than a networking background. I do know that sending data back and forth is important part of being able to provide the source code and data to the user. I would like to know more about internet protocols and how requests are made and fulfilled.
