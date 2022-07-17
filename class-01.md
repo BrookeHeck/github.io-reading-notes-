@@ -2,9 +2,9 @@
 
 ## Summary
 The getting started portion of the reading started with the basics of how web pages are retrieved from servers where the source code resides and is eventually displayed for the client. The browser acts as the go between for the server and client by making requests, parsing code returned by the server, and displaying that code to the client. Other readings in the section included the basics of HTML and JS. HTML, JS, and CSS work together to create webpages when parsed and rendered by a browser. HTML and CSS are markup languages that give structure and style to a webpage while JS gives a webpage interactivity.
-/
+\
 Introduction to HTML was the next reading section, and was a deeper dive into how HTML provides the structure of a webpage. Elements within the body of an HTML file put content in ordered way that the browser understands and can parse. The header is another important aspect of HTML because it provides the metadata, which is data about the HTML. This is used by the browser to correctly render the page.
-/
+\
 The last section of reading provides a few different, but helpful readings. The first article describes how having purpose and vision is the most important part of web design. This is so the website has meaning by accomplishing a specific goal. The next article went over the importance of semantics in HTML. Following customs helps developers, browsers, search engines, and screen readers. The last reading went over JavaScript and it's crucial role in developing dynamic websites.
 
 ## Getting Started
