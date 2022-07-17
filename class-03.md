@@ -1,7 +1,7 @@
 # HTML Lists, Control Flow with JS, and the CSS Box Model
 
 ## Summary
-The first reading section highlights lists in HTML. To correctly format a list in HTML, you actually need to use to html tags, the ul or ol tags to identify the content as a list, and then the li tag for each list item. Lists have attributes that allow you to change the styling through css. Lists are important because they are one more important tool that helps a developer structure a website so that it makes sense to a user.
+The first reading section highlights lists in HTML. To correctly format a list in HTML, you actually need to use two html tags, the ul or ol tags to identify the content as a list, and then the li tag for each list item. Lists have attributes that allow you to change the styling through css. Lists are important because they are one more important tool that helps a developer structure a website so that it makes sense to a user.
 \
 Understanding the CSS box model is important for being able to style an element to exactly how we want it to look. The box model includes margin, border, padding, and content. In order to correctly space or style an element, you need to know which part of the element you are trying style so that the right property is used.
 \
