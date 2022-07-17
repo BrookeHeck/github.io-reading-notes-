@@ -3,7 +3,7 @@
 ## Summary
 The first section continued with more HTML. There weren't really any new concepts here, but many more elements were introduced. It is important to use these tags so that users, developers, search engines, and screen readers have a better understanding of the content on the page. This reading section also introduced how to incorporate CSS to style a HTML page. CSS is important for styling a webpage, which can also help with a more structured, organized webpage and also just a more visually appealing site.
 \
-The second section of reading went deeper into JS. We already learned about data types, but variables, operators, and conditionals allow us to use data in a meaningul. Being able to manipulate data allows us to solve real world problems through coding. Knowing how all three of these work together is very important because they are what a browser uses to render a webpage.
+The second section of reading went deeper into JS. We already learned about data types, but variables, operators, and conditionals allow us to use data in a meaningful way. Being able to manipulate data allows us to solve real world problems through coding. Knowing how all three of these work together is very important because they are what a browser uses to render a webpage.
 
 
 ## Introduction to HTML
