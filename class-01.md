@@ -3,7 +3,7 @@
 ## Summary
 The getting started portion of the reading started with the basics of how web pages are retrieved from servers where the source code resides and is eventually displayed for the client. The browser acts as the go between for the server and client by making requests, parsing code returned by the server, and displaying that code to the client. Other readings in the section included the basics of HTML and JS. HTML, JS, and CSS work together to create webpages when parsed and rendered by a browser. HTML and CSS are markup languages that give structure and style to a webpage while JS gives a webpage interactivity.
 \
-Introduction to HTML was the next reading section, and was a deeper dive into how HTML provides the structure of a webpage. Elements within the body of an HTML file put content in ordered way that the browser understands and can parse. The header is another important aspect of HTML because it provides the metadata, which is data about the HTML. This is used by the browser to correctly render the page.
+Introduction to HTML was the next reading section, and was a deeper dive into how HTML provides the structure of a webpage. Elements within the body of an HTML file put content in ordered way that the browser understands and can parse. The body of the HTML file is where all the content that is displayed on the page is structured using HTML elements. The header is another important aspect of HTML because it provides the metadata, which is data about the HTML. This is used by the browser to correctly render the page.
 \
 The last section of reading provides a few different, but helpful readings. The first article describes how having purpose and vision is the most important part of web design. This is so the website has meaning by accomplishing a specific goal. The next article went over the importance of semantics in HTML. Following customs helps developers, browsers, search engines, and screen readers. The last reading went over JavaScript and it's crucial role in developing dynamic websites.
 
@@ -22,7 +22,7 @@ The server sends files to process
 The browser assembles to visually express
 
 2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
-- The browser begins with parsing the HTML code sent returned by an external server and uses this to recognize CSS and scripts that are needed to render the webpage. The browser continues to parse the HTML code, but also sends requests to the server for the CSS and js files. Next, the browser parses the CSS and js files. With the parsed code, a DOM tree is made with the HTML, a CSSOM tree is made with the CSS, and JavaScript code is compiled and executed. The browser applies the styles from the CSSOM to the DOM and executes JavaScript to show a visual representation of the code to a user.
+- The browser begins with parsing the HTML code returned by an external server and uses this to recognize CSS and scripts that are needed to render the webpage. The browser continues to parse the HTML code, but also sends requests to the server for the CSS and js files. Next, the browser parses the CSS and js files. With the parsed code, a DOM tree is made with the HTML, a CSSOM tree is made with the CSS, and JavaScript code is compiled and executed. The browser applies the styles from the CSSOM to the DOM and executes JavaScript to show a visual representation of the code to a user.
 
 3. How can you find images to add to a Website?
 - Images can be added by searching Google Images and either saving the image to somewhere in your local directory or by copying the web address. Google has a license filter to use so that copyright laws are not broken.
@@ -41,27 +41,27 @@ The browser assembles to visually express
 
 ## Introduction to HTML
 1. What is an HTML attribute?
-- Attributes part of an element, but provide information about the element instead of being displayed on the screen. For example, an element could be given an id attribute which is used in the CSS to select that element and style it.
+- Attributes are part of an element, but provide information about the element instead of being displayed on the screen. For example, an element could be given an id attribute which is used in the CSS to select that element and style it.
 \
 ``` <section id="intro">Here is an introduction section</section> ```
 - There are many more attributes that help change the styling of the element or how the user interacts with the element.
 
 2. Describe the Anatomy of an HTMl element.
-  1. opening tag: name of element wrapped in brackets, marks beginning of element, attributes can be added inside the opening tag
-  2. content: what ever data you want inside the element
-  3. closing tag: sam as opening tag but marks the end of an element
+  - opening tag: name of element wrapped in brackets, marks beginning of element, attributes can be added inside the opening tag
+  - content: what ever data you want inside the element
+  - closing tag: sam as opening tag but marks the end of an element
 
-3. What is the Difference between <article> and <section> element tags?
-- An article has content that would make sense on it's own even if it didn't have the rest of the website content
+3. What is the Difference between article and section element tags?
+- An article has content that would make sense on it's own even if it didn't have the rest of the website content.
 - A section is a smaller grouping that wouldn't make sense by itself but has a similar theme. Multiple sections might make up an article.
 
 4. What Elements does a “typical” website include?
-  1. ``` <DOCTYPE htmL> ```
-  2. ``` <htmL></html> ``` wraps all the content on the page, root element
-  3. ``` <head></head> ``` container for things that aren't content; keywords, CSS style content, character set declarations
-  4. ``` <meta charset="utf-8"> ```
-  5. ``` <title></title> ``` sets the title of the page that appears on the browser tab
-  6. ``` <body></body> ``` displays all content on the page; tet, images, videos, games, audio and anything else</br>
+  - ``` <DOCTYPE htmL> ```
+  - ``` <htmL></html> ``` wraps all the content on the page, root element
+  - ``` <head></head> ``` container for things that aren't content; keywords, CSS style content, character set declarations
+  - ``` <meta charset="utf-8"> ```
+  - ``` <title></title> ``` sets the title of the page that appears on the browser tab
+  - ``` <body></body> ``` displays all content on the page; tet, images, videos, games, audio and anything else</br>
   - the body often contains header, nav, main, and footer elements
 
 5. How does metadata influence Search Engine Optimization?
@@ -77,7 +77,7 @@ The browser assembles to visually express
 2. What is the most important question to answer when designing a Website?
 - The most important question is, what do I want to accomplish?
 
-3. Why should you use an <h1> element over a <span> element to display a top level heading?
+3. Why should you use an h1 element over a span element to display a top level heading?
 - There are many reasons to use correct semantic markup. One of them is that browsers will automatically render them to look like important headings. The browser will not automatically give helpful styling to a span or any tag that is not meant to be a heading.
 4. What are the benefits of using semantic tags in our HTML?
 - The MDN page, [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics) provides a good list of reasons.
