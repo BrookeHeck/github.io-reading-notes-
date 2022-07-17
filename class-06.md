@@ -4,7 +4,8 @@
 The first article describes how to create objects in JavaScript. Objects are useful for grouping data that goes together and provides more meaningful structure than an array. You can access the properties of an object by calling on that object and then using dot or bracket notation to call the property. Objects are also used so you don't have to keep repeating code. Instead, you can create a constructor that creates a template of an object. Parameters are passed into constructors so that each object created has properties that are specific to that object.
 \
 The second article explains how HTML elements are used as objects by JavaScript to manipulate the webpage. By using the elements as objects, you can make a webpage much more interactive and even change how elements look or create and delete elements based on what the user is doing.
-\This is important to what we are learning becuase the websites we create would be pretty boring without it. We could provide content in a structured and meaningful way, but using JavaScript and the DOM allows us to create really cool websites that have function and interactivity.
+\
+This is important to what we are learning becuase the websites we create would be pretty boring without it. We could provide content in a structured and meaningful way, but using JavaScript and the DOM allows us to create really cool websites that have function and interactivity.
 
 
 
