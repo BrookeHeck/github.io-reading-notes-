@@ -1,19 +1,19 @@
 # HTML Lists, Control Flow with JS, and the CSS Box Model
 
 ## Summary
-The first reading section highlights lists in HTML. To correctly format a list in HTML, you actually need to use to html tags, the ul or ol tags to identify the content as a list, and then the li tag for each list item. Lists have attributes that allow you to change the styling through css. Lists are important because they is one more important tool that helps a developer structure a website so that it makes sense to a user.
+The first reading section highlights lists in HTML. To correctly format a list in HTML, you actually need to use to html tags, the ul or ol tags to identify the content as a list, and then the li tag for each list item. Lists have attributes that allow you to change the styling through css. Lists are important because they are one more important tool that helps a developer structure a website so that it makes sense to a user.
 \
-Understanding the CSS box model is important for being able to style an element to exactly how we want it to look. The box model includes margin, border, padding, and content. In order to correctly space or style an element, you need to know which part of the element you are trying style so that the right selector is used.
+Understanding the CSS box model is important for being able to style an element to exactly how we want it to look. The box model includes margin, border, padding, and content. In order to correctly space or style an element, you need to know which part of the element you are trying style so that the right property is used.
 \
-Arrays, expressions, operators, and conditionals all continue to add functionality to our code. Arrays are super helpful for storing or grouping data in our JS and allow for easy access with an index when we want to use that data. We can take that data and use it in our expressions, add operators to solve problems, and use conditionals to execute different blocks of code. Learnig about all these are important for writing code that accomplishes something.
+Arrays, expressions, operators, and conditionals all continue to add functionality to our code. Arrays are super helpful for storing or grouping data in our JS and allow for easy access with an index when we want to use that data. We can take that data and use it in our expressions, add operators to solve problems, and use conditionals to execute different blocks of code. Learning about all these are important for writing code that accomplishes a goal.
 
 ## Learn HTML
 1. When should you use an unordered list in your HTML document?
-- An unordered list is helpful when you are trying to group some content that is makes sense to go together, but doesn't need to be in a numbered order.
+- An unordered list is helpful when you are trying to group some content that makes sense to go together, but doesn't need to be in a numbered order.
 2. How do you change the bullet style of unordered list items?
 - The attribute type can change the type of bullet to circle, disc, or square. A fourth bullet type, triangle, is not compatible with all browsers.
 3. When should you use an ordered list vs an unorder list in your HTML document?
-- Ordered lists are similar to unordered list in that way that you want to group content that goes together, but use an ordered list when it the list makes sense in numerical order.
+- Ordered lists are similar to unordered list in that way that you want to group content that goes together, but use an ordered list when the list makes sense in numerical order.
 4. Describe two ways you can change the numbers on list items provided by an ordered list?
 - UL numbers can be changed in a style sheet using list-style-type property.
 - UL numbers can be changed with the attribute type and setting it to a for letters, A for uppercase letters, i for Roman numerals, I for uppercase Roman numerals, and 1 for default.
