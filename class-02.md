@@ -1,8 +1,9 @@
 # Basics of HTML, CSS & JS
 
 ## Summary
-The first section continued with more HTML. There weren't really any new concepts here, but many more elements were introduced. It is important to use these tags so that users, developers, search engines, and screen readers have a better understanding of the content on the page. This reading section also introduced how to incorporate CSS to style a HTML page. CSS is important for styling a webpage, which can also help with a more structured, organized webpage and also just a more visually appealing site. More basics of JS were introduced as well. Knowing how all three of these work together is very important because they are what a browser uses to render a webpage.
-The second section of reading went deeper into JS. We already learned about data types, but variables, operators, and conditionals allow us to use data in a meaningul. Being able to manipulate data allows us to solve real world problems through coding.
+The first section continued with more HTML. There weren't really any new concepts here, but many more elements were introduced. It is important to use these tags so that users, developers, search engines, and screen readers have a better understanding of the content on the page. This reading section also introduced how to incorporate CSS to style a HTML page. CSS is important for styling a webpage, which can also help with a more structured, organized webpage and also just a more visually appealing site.
+\
+The second section of reading went deeper into JS. We already learned about data types, but variables, operators, and conditionals allow us to use data in a meaningul. Being able to manipulate data allows us to solve real world problems through coding. Knowing how all three of these work together is very important because they are what a browser uses to render a webpage.
 
 
 ## Introduction to HTML
@@ -15,13 +16,13 @@ The second section of reading went deeper into JS. We already learned about data
   - Semantic naming mirrors proper custom naming
 
 2. How many levels of headings are there in HTML?
-- There are six levels of headings in the HTML structure. Usually there is on h1 for the title of the page and then within the page are the higher number headings for sections and sub-sections.
+- There are six levels of headings in the HTML structure. Usually there is one h1 for the title of the page and then within the page are the higher number headings for sections and sub-sections.
 
 3. What are some uses for the sup and sub elements?
-- Both superscripts and subscripts are use in math. So formulas or equations could require the use of sup and sub tags.
+- Both superscripts and subscripts are used in math. So formulas or equations could require the use of sup and sub tags.
 
 4. When using the abbr element, what attribute must be added to provide the full expansion of the term?
-- The tag title inside an abbr tag will provide the full expansion of the abbreviated term.
+- The attribute title inside an abbr tag will provide the full expansion of the abbreviated term.
 
 ## Learn CSS
 1. What are ways we can apply CSS to our HTML?
