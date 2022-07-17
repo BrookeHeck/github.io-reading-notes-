@@ -5,7 +5,7 @@ The following is reading assignment notes for the Code Fellows Course, *Code 201
 2. [Basics of HTML, CSS & JS](./class-02.md)
 3. [HTML Lists, Control Flow with JS, and the CSS Box Model](./class-03.md)
 4. [HTML Links, JS Functions, and Intro to CSS Layout](./class-04.md)
-5. [Reading Five](./class-05.md)
+5. [Images, Color, Text](./class-05.md)
 6. [Problem Domain, Objects, and the DOM](./class-06.md)
 7. [Reading Seven](./class-07.md)
 8. [Reading Eight](./class-08.md)
