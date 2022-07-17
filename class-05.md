@@ -38,7 +38,7 @@ There are so many CSS styling and coloring properties that I'm sure I will never
 - Good coloring techniques can also help touch up his blog. Using a color palette can help the website look more put together. Contrast created by applying different colors could draw the user's eye to important sections of the website.
 
 3. What should you consider when choosing fonts for an HTML document?
-- Consider the font style. Font style definitely adds to the text of website, but make sure it is clear and easy to read. Also, check that the font is combatible with the major browsers. Consider using third-part fonts, like Google fonts, which can be linked to an HTML page and will work on any browswer.
+- Consider the font style. Font style definitely adds to the text of website, but make sure it is clear and easy to read. Also, check that the font is combatable with the major browsers. Consider using third-part fonts, like Google fonts, which can be linked to an HTML page and will work on any browswer.
 - Consider font layout styles. This would be properties that affect spacing and positioning. Changing the font layout can add design, contrast, and emphasis to text in the website, but make sure it is not to busy or hard to read.
 
 4. What do font-size, font-weight, and font-style do to HTML text elements?
