@@ -3,6 +3,7 @@
 ## Summary
 The first article describes how to create objects in JavaScript. Objects are useful for grouping data that goes together and provides more meaningful structure than an array. You can access the properties of an object by calling on that object and then using dot or bracket notation to call the property. Objects are also used so you don't have to keep repeating code. Instead, you can create a constructor that creates a template of an object. Parameters are passed into constructors so that each object created has properties that are specific to that object.
 \
+The second article explains how HTML elements are used as objects by JavaScript to manipulate the webpage. By using the objects as elements, you can make a webpage much more interactive and even change how elements look or create and delete elements based on what the user is doing.
 
 
 
@@ -26,8 +27,14 @@ The first article describes how to create objects in JavaScript. Objects are use
 
 ## Introduction to the DOM
 1. What is the DOM?
+- DOM represents an HTML page and it's elements as nodes and objects that can be used with JavaScript.
 2. Briefly describe the relationship between the DOM and JavaScript.
+- The DOM is essential for being able to create, update, change, and access different HTMl elements on a webpage. When you think of a HTML element as just markup on a webpage it only provides the user with structure, but when you think of a HTML element as a JavaScript object, there is way more you can do with an element. The element can now have different properties and functions, and JavaScript can be used to change those properties based on how a user interacts with it. The DOM is key to making dynamic webpages.
+
+## Things I want to know more about
+- I didn't know the DOM was part of a web API, but it makes sense that it is independent from JavaScript so that other programming languages can use it. I would like to know more about how the JavaScript interacts with this API.
 
 ### Links
 [JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
+\
 [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
