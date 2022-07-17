@@ -63,6 +63,7 @@ JS functions are very helpful when it comes to the DRY (Don't Repeat Yourself) p
 
 ## Things I want to learn more about
 - Flexbox is a cool way of positioning elements without having to do any math. I have heard of flexbox, but never actually used it, so I would like to learn more about it.
+
 ### Links
 [Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
 \
