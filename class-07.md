@@ -16,9 +16,7 @@
 2. How does the term this differ when used in an object literal versus when used in a constructor?
 
 ## Object Prototypes Using a Constructor
-1. Explain prototypes and inheritance via an analogy from your previous work experience.
-*** This is a very common front end developer interview question
-\
+1. Explain prototypes and inheritance via an analogy from your previous work experience. *** This is a very common front end developer interview question.
 
 ## Things I would like to know more about
 
