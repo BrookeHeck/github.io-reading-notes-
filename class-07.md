@@ -1,7 +1,7 @@
 # Object-Oriented Programming, HTML Tables
 
 ## Summary
-Domain modeling is a good introduction as to why constructors and and objects make make coding way better. The readings for today were a lot of the basic stuff about how to create constructers using JavaScript, and call on them to make new functions. This is important, but I'm excited to get into more complex ways of using objects.
+Domain modeling is a good introduction as to why constructors and and objects make make coding way better. The readings for today were a lot of the basic stuff about how to create constructers using JavaScript, and call on them to make new objects. This is important, but I'm excited to get into more complex ways of using objects.
 \
 I'm not sure I've ever used an HTML table before, so I learned quite a bit from this reading. The reading went over the HTML tags required to create a table and how a basic table would be formatted without any styling.
 
