@@ -1,6 +1,9 @@
 # Object-Oriented Programming, HTML Tables
 
 ## Summary
+Domain modeling is a good introduction as to why constructors and and objects make make coding way better. The readings for today were a lot of the basic stuff about how to create constructers using JavaScript, and call on them to make new functions. This is important, but I'm excited to get into more complex ways of using objects.
+\
+I'm not sure I've ever used an HTML table before, so I learned quite a bit from this reading. The reading went over the HTML tags required to create a table and how a basic table would be formatted without any styling.
 
 ## Domain Modeling
 1. Explain why we need domain modeling.
@@ -30,6 +33,7 @@
 - An analogy for prototypes and inheritance from my last job would be thinking of a generic cargo jet as the prototype. The properties inherited by all cargo aircrafs could be name, number of pallets positions, maximum number of passenger seats, max cargo weight capacity. All cargo aircrafts would have these properties, but they wouldn't be the same for each specific aircraft.
 
 ## Things I would like to know more about
+- I've never used an HTML table and didn't know that it was even possible to style a website just using a table. I know that styling a whole website like this is a bad idea, but I would like to learn more about different ways to style a table with CSS.
 
 ### Links
 [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
