@@ -8,7 +8,7 @@ The following is reading assignment notes for the Code Fellows Course, *Code 201
 5. [Images, Color, Text](./class-05.md)
 6. [Problem Domain, Objects, and the DOM](./class-06.md)
 7. [Object-Oriented Programming, HTML Tables](./class-07.md)
-8. [Reading Eight](./class-08.md)
+8. [CSS Layout](./class-08.md)
 9. [Reading Nine](./class-09.md)
 10. [Reading Ten](./class-10.md)
 11. [Reading Eleven](./class-11.md)
