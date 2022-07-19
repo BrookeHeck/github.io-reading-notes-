@@ -26,5 +26,5 @@ Today's reading was all about flexbox. Flexbox is a way of layingout out element
 - I've seen some of the things that other people have created using WebGL, and they make some really cool stuff with. I would like to learn how to use WebGL.
 
 ### Links
-- (Flexbox)[https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox]
-- (Flexbox)[https://web.dev/learn/css/flexbox/]
+- [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+- [Flexbox](https://web.dev/learn/css/flexbox/)
