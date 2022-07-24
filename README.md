@@ -13,8 +13,8 @@ The following is reading assignment notes for the Code Fellows Course, *Code 201
 10. [Debugging](./class-10.md)
 11. [Audio, Video, Images](./class-11.md)
 12. [Chart.js, Canvas](./class-12.md)
-13. [Reading Thirteen](./class-13.md)
-14. [Reading Fourteen](./class-14.md)
+13. [Local Storage for Web Applications](./class-13.md)
+14. [CSS Transform, Transitions, Animations](./class-14.md)
 15. [Reading Fifteen](./class-15.md)
 
 

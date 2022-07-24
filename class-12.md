@@ -24,7 +24,7 @@ These readings introduced the canvas tag and chart.js, which go together nicely.
 - Charts convey data quickly and are easier to look at than a table.
 
 2. How could Chart.js aid your previously created applications visually?
-- My first thought was all the tables in the salmon cookies project. I think that a bar graph would have been a much more visual representation than just numbers. Anyone could quickly and easily see the best and worst perfomring stores based on the size of the bar.
+- My first thought was all the tables in the salmon cookies project. I think that a bar graph would have been a much more visual representation than just numbers. Anyone could quickly and easily see the best and worst performing stores based on the size of the bar.
 
 ## Things I want to know more about
 - I didn't dive to deep into the docs of chart.js, but it looks like a great way to create graphs and charts. I would like to read through the docs more when I have time.
