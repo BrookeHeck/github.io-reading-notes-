@@ -11,7 +11,7 @@ The following is reading assignment notes for the Code Fellows Course, *Code 201
 8. [CSS Layout](./class-08.md)
 9. [Forms and JS Events](./class-09.md)
 10. [Debugging](./class-10.md)
-11. [Reading Eleven](./class-11.md)
+11. [Audio, Video, Images](./class-11.md)
 12. [Reading Twelve](./class-12.md)
 13. [Reading Thirteen](./class-13.md)
 14. [Reading Fourteen](./class-14.md)
