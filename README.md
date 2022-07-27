@@ -15,6 +15,6 @@ The following is reading assignment notes for the Code Fellows Course, *Code 201
 12. [Chart.js, Canvas](./class-12.md)
 13. [Local Storage for Web Applications](./class-13.md)
 14. [CSS Transform, Transitions, Animations](./class-14.md)
-15. [Reading Fifteen](./class-15.md)
+15. [What Google Learned From Its Quest to Build the Perfect Team](./class-15.md)
 
 
