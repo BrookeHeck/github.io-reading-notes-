@@ -5,9 +5,17 @@
 ## Component Based Architecture
 1. What is a “component”?
 
+    A component is a portable and replaceable software object that defines a functionality. It encloses its implementation of that functionality so that it can be used as a higher level interface.
+
 2. What are the characteristics of a component?
 
+    [TutorialsPoint](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm) uses these characteristics to describe a component.
+    - Reusability, replaceable, not context specific, extensible, encapsulated, independent
 3. What are the advantages of using component-based architecture?
+
+     [TutorialsPoint](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm) lists these advantages of component-based architecture
+     - Ease of deployment, reduced cost, ease of development, reusable, modification of technical complexity, reliability, system maintenance and evolution, and independent
+
 
 ## What is Props and how to use it in React
 1. What is “props” short for?
