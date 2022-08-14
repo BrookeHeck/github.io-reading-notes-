@@ -1,6 +1,7 @@
 # Introduction to React and Components
 
 ## Summary
+These readings helped me better understand the basic workings of React. React uses a component based architecture that passes data from parents to children. The first article was a broad overview of component based structure and focused on what it actually is and why it is useful in software development. The second article is more specific to React, and talks about how a component-based architecture is used and how that allows us to create React components and pass them unique props.
 
 ## Component Based Architecture
 1. What is a “component”?
