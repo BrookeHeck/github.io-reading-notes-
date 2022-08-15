@@ -3,8 +3,7 @@
 ## Summary
 The first article goes over the three major lifecycle phases of a React component. These would be mounting, updating, and unmounting. There are multiple methods that can be called in each phase. For example the constructor, render, and componentDidMount methods are all called during mounting. There are also a number of methods that can be called when states change within a component, and finally for unmounting, which removes the component from the DOM.
 
-The video talked specifically about the difference between props and states. Props act like arguments that are passed into a function. States are more like fields within an object. Props can be passed to components, and then components can update based on the prop.
-
+The video talked specifically about the difference between props and states. Props act like arguments that are passed into a function. States are more like fields within an object. Props can be passed to components, and then states can update based on the prop.
 ## React Lifecycle
 1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
 
@@ -12,7 +11,7 @@ The video talked specifically about the difference between props and states. Pro
 
 2. What is the very first thing to happen in the lifecycle of React?
 
-  Mounting, but more specifically, 'Constructor'
+   Mounting, but more specifically, 'Constructor'
 
 3. Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates
 
