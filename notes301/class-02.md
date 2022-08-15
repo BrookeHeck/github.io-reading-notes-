@@ -57,6 +57,6 @@ The video talked specifically about the difference between props and states. Pro
 
 [Bootstrap Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
 
-(All Bootstrap CSS classes)[https://bootstrapshuffle.com/classes]
+[All Bootstrap CSS classes](https://bootstrapshuffle.com/classes)
 
-(Netlify)[https://www.netlify.com/]
+[Netlify](https://www.netlify.com/)
