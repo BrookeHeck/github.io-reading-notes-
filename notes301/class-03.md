@@ -5,22 +5,71 @@
 ## React Docs - lists and keys
 1. What does .map() return?
 
+    Map returns an array. It will loop through an array, execute a callback function for each iteration. Whatever the callback function returns will be added to a new array, and that new array is what is returned.
+
 2. If I want to loop through an array and display each value in JSX, how do I do that in React?
+
+    It is the same concept and syntax but the code must be inside of curly braces.
 
 3. Each list item needs a unique ____.
 
+    Key
+
 4. What is the purpose of a key?
+
+    Keys are used for extracting components. They serve as an ID for a specific component.
 
 ## The Spread Operator
 1. What is the spread operator?
 
+    The spread syntax is used to make elements of an array into individual arguments.
+
 2. List 4 things that the spread operator can do.
 
+    The spread operator is useful for copying an array, combining arrays, using array elements in math functions, using an array as an argument, adding to state in react, or converting a NodeList into an array
+
 3. Give an example of using the spread operator to combine two arrays.
+    ```
+    arr1 = [1, 2, 3, 4, 5];
+    arr2 = [6, 7, 8, 9, 10];
+
+    let combine = (arr1, arr2) => [...arr1] + [...arr2];
+
+    console.log(combine(arr1, arr2));
+    ```
+    Output
+    ```
+    1,2,3,4,5,6,7,8,9,10
+    ```
 
 4. Give an example of using the spread operator to add a new item to an array.
+    ```
+    arr1 = [1, 2, 3, 4, 5];
+    arr2 = [7, 8, 9, 10];
+
+    let combine = (arr1, arr2) => [...arr1, 6, ...arr2];
+
+    console.log(combine(arr1, arr2));
+    ```
+    Output
+    ```
+    [1, 2, 3, 4,  5, 6, 7, 8, 9, 10]
+    ```
 
 5. Give an example of using the spread operator to combine two objects into one.
+
+    ```
+    obj1 = { first: 'Brooke' };
+    obj2 = { last: 'Heck' };
+
+    let combine = (obj1, obj2) => {
+    return { ...obj1, ...obj2 }
+    };
+    console.log(combine(obj1, obj2));
+    ```
+    Output
+    ```
+    { first: 'Brooke', last: 'Heck'}
 
 ## How to Pass Functions Between Components
 1. In the video, what is the first step that the developer does to pass functions between components?
