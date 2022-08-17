@@ -33,13 +33,13 @@
     arr1 = [1, 2, 3, 4, 5];
     arr2 = [6, 7, 8, 9, 10];
 
-    let combine = (arr1, arr2) => [...arr1] + [...arr2];
+    let combine = (arr1, arr2) => [...arr1, ...arr2];
 
     console.log(combine(arr1, arr2));
     ```
     Output
     ```
-    1,2,3,4,5,6,7,8,9,10
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     ```
 
 4. Give an example of using the spread operator to add a new item to an array.
@@ -70,6 +70,7 @@
     Output
     ```
     { first: 'Brooke', last: 'Heck'}
+    ```
 
 ## How to Pass Functions Between Components
 1. In the video, what is the first step that the developer does to pass functions between components?
