@@ -2,6 +2,7 @@
 
 ## Summary
 The first reading was very helpful because I'm just learning react. This article went through the process of determining what should be a component and what should be state. The lab directions help guide us through this process, but there isn't going to be specific directions for every application I build, so this article gave great tips on how to organize a React app and where to place state so that data flow makes sense.
+
 The second article talked about higher order functions. forEach, map, and filter are methods that we have already used and are great examples of higher order functions. Each of these methods takes in a function as an argument so that the function can be reused many times.
 >Higher-order functions allow us to abstract over actions, not just values.
 
@@ -30,7 +31,7 @@ The second article talked about higher order functions. forEach, map, and filter
 ## Higher-Order Functions
 1. What is a “higher-order function”?
 
-    These are unctions that operate on other function by taking them as arguments or returning them. Higher-order functions allow for abstraction of actions not just values.
+    These are functions that operate on other functions by taking them as arguments or returning them. Higher-order functions allow for abstraction of actions not just values.
 
 2. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
 
@@ -38,7 +39,7 @@ The second article talked about higher order functions. forEach, map, and filter
 
 3. Explain how either map or reduce operates, with regards to higher-order functions.
 
-    Map and filter are two examples of higher order functions. Map takes a function as it's argument and then uses that function on every element of the array. Reusing that arrow function call passed into map or filter is what makes it a higher order function.
+    Map and filter are two examples of higher order functions. Map takes a function as it's argument and then uses that function on every element of the array. Reusing the function passed into map or filter is what makes it a higher order function.
 
 ## Things I want to learn more about
 
