@@ -1,12 +1,12 @@
 # Rest
 
 ## Summary
-This article a conversation about how different machines and systems communicate with one another using HTTP. 
+This article a conversation about how different machines and systems communicate with one another using HTTP. Using URLs, HTTP requests are able to get, post, and update information anywhere on the internet. HTTP requests have made APIs incredibly popular by getting information from other servers much easier than previous software development techniques.
 
 ## How I explained REST to my brother
 1. Who is Roy Fielding?
 
-    Roy Fielding helped Ryan Tomayko and others develop web servers that sent documents across the internet. In order to do this, they developed the protocol HTTP. Using URLs, HTTP requests are able to get, post, and update information anywhere on the internet. HTTP requests have made APIs incredibly popular by getting information from other servers much easier than previous software development techniques.
+    Roy Fielding helped Ryan Tomayko and others develop web servers that sent documents across the internet. In order to do this, they developed the protocol HTTP.
 
 2. Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
 
