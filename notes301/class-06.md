@@ -1,18 +1,18 @@
 # Node.js
 
 ## Summary
-The first article was an introduction to Node.js. Node allows JavaScript to be run outside of a browser, and this widens the scope that we can use JavaScript. One important use of node is that it allows create servers using JavaScript. The article also talked briefly about npm. This is a massive software registry for node packages and allows us to easily install these packages into our own projects.
+The first article was an introduction to Node.js. Node allows JavaScript to be run outside of a browser, and this widens the scope that we can use JavaScript. One important use of node is that it allows us to create servers using JavaScript. The article also talked briefly about npm. This is a massive software registry for node packages and allows us to easily install these packages into our own projects.
 
 ## An Introduction to Node.js
 1. What is node.js?
 
-    The Node.j home page says:
+    The Node.js home page says:
     >Node.js® is a JavaScript runtime built on Chrome’s V8 JavaScript engine.
     It basically means that you can run JavaScript outside of the browser and inside a terminal.
 
 2. In your own words, what is Chrome’s V8 JavaScript Engine?
 
-  Chrom's V8 JS Engine is what compile's JavaScript into machine code so that it can be executed by a computer. It is open-source and runs in many web-browsers.
+    Chrome's V8 JS Engine is what compile's JavaScript into machine code so that it can be executed by a computer. It is open-source and runs in many web-browsers.
 
 3. What does it mean that node is a JavaScript runtime?
 
