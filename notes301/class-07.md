@@ -1,7 +1,7 @@
 # Rest
 
 ## Summary
-This article a conversation about how different machines and systems communicate with one another using HTTP. Using URLs, HTTP requests are able to get, post, and update information anywhere on the internet. HTTP requests have made APIs incredibly popular by getting information from other servers much easier than previous software development techniques.
+This article is a conversation about how different machines and systems communicate with one another using HTTP. Using URLs, HTTP requests are able to get, post, and update information anywhere on the internet. HTTP requests have made APIs incredibly popular by getting information from other servers much easier than previous software development techniques.
 
 ## How I explained REST to my brother
 1. Who is Roy Fielding?
