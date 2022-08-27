@@ -12,11 +12,11 @@ The following is reading assignment notes for the Code Fellows Course, *Code 301
 8. [APIs](./notes301/class-08.md)
 9. [Functional Programming](./notes301/class-09.md)
 10. [In memory storage](./notes301/class-10.md)
-11. [Class 11](./notes301/class-11.md)
-12. [Class 12](./notes301/class-12.md)
-13. [Class 13](./notes301/class-13.md)
-14. [Class 14](./notes301/class-14.md)
-15. [Class 15](./notes301/class-15.md)
+11. [Mongo and Mongoose](./notes301/class-11.md)
+12. [CRUD](./notes301/class-12.md)
+13. [More CRUD](./notes301/class-13.md)
+14. [Diversity & Inclusion in the Tech Industry](./notes301/class-14.md)
+15. [Authentication](./notes301/class-15.md)
 
 ## Code 201
 The following is reading assignment notes for the Code Fellows Course, *Code 201 Foundations of Software Development*.
