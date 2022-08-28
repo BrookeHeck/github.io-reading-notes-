@@ -1,4 +1,4 @@
-# Mongo and Mongoose
+# SQL vs NoSQL
 
 ## Summary
 Today's reading focused on the differences of SQL and NoSQL. SQL is a relational database that uses strict schemas to store data. This can be an advantage because it provides predictability and updating data can be easier because it uses relations, but this means the database scales vertically and this is not always great for large amounts of database.
