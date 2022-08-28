@@ -33,7 +33,7 @@ The video was a quick walk through for setting up a MongoDB using Express and Mo
 
     This is when a user doesn't have permission to access a resource.
 
-## Build a REST API With NOde.js, Express, & MongoDB
+## Build a REST API With Node.js, Express, & MongoDB
 1. Why do we need to pull our MongoDB database string out of our server and put it into our .env?
 
     When we deploy the database, we don't want to use localhost to handle the server requests. We can fix this by pulling the database string out of the server and adding it the environment variables file.
