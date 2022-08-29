@@ -19,6 +19,7 @@ The following is reading assignment notes for the Code Fellows Course, *Code 301
 15. [Authentication](./notes301/class-15.md)
 
 ## Code 201
+[201 Links](./notes201/cheat-sheets.md)
 The following is reading assignment notes for the Code Fellows Course, *Code 201 Foundations of Software Development*.
 
 1. [Introductory HTML and JavaScript](./notes201/class-01.md)
