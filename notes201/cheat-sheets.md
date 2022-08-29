@@ -14,3 +14,7 @@
 
 ## Cheat Sheets
 - [Flexbox Cheat Sheet](https://jonitrythall.com/content/flexboxsheet.pdf)
+- [CSS2 Cheat Sheet](./img/css2-cheat-sheet.pdf)
+- [CSS3 Cheat Sheet](./img/css3-cheat-sheet.pdf)
+- [HTML Reference Tags](./img/html5-reference-tags.jpg)
+- [HTML Sectioning Flowchart](./img/html5-sectioning-flowchart.pdf)
