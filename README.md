@@ -1,7 +1,9 @@
 # Reading Notes
 
 ## Code 301
-[301](./notes301/cheat-sheets.md)
+[301 Links](./notes301/cheat-sheets.md)
+
+
 The following is reading assignment notes for the Code Fellows Course, *Code 301 Intermediate Software Development*.
 1. [Introduction to React and Components](./notes301/class-01.md)
 2. [State and Props](./notes301/class-02.md)
