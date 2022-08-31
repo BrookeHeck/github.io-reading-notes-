@@ -10,3 +10,5 @@
 ## Cheat Sheets
 - [Bootstrap Classes Cheat Sheet](https://bootstrapshuffle.com/classes)
 - [Anatomy of a URL](./img/3--anatomy-of-a-url.png)
+- [How to Access Values from a URL](./img/accessValuesFromUrl.png)
+- [crudMethods](./img/crudMethods.png)
