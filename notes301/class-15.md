@@ -20,6 +20,7 @@
     - The user is asked to authenticate and approve authorization to second site
     - User/software approves transaction type at first website and gives them access token
     - first website gives access token to second site as proof of authentication and second website lets first website access site on behalf of user
+    </br></br>
 
 4. What is OpenID?
 
@@ -28,17 +29,31 @@
 ## Authorization and Authentication Flows
 1. What is the difference between authorization and authentication?
 
+    Authentication is making sure the person is who they say they are and authorization is what does this person have rights or access to.
+
 2. What is Authorization Code Flow?
+
+    Authorization code flow is exchanging an authorization code for a token so that the codes are not exposed in the source code of client side web applications.
 
 3. What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
 
+    Proof keys are used for single page apps. The proof key is used with the code when exchanging for a token.
+
 4. What is Implicit Flow with Form Post?
+
+    This is an alternative to Authorization Code Flow. It is used in applications that can't store access tokens. This works if the application only needs an ID token for authentication.
 
 5. What is Client Credentials Flow?
 
+    This is when a machine is authenticated using client credentials instead of a persons username or password. This is used when a machine is authenticating a machine and not a person.
+
 6. What is Device Authorization Flow?
 
+    This is when a user is asked to authenticate through a link that is sent to their computer or smartphone to authorize a device.
+
 7. What is Resource Owner Password Flow?
+
+    This is when users provide credentials using an interactive form.
 
 ## Things I want to learn more about
 
