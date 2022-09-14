@@ -22,4 +22,4 @@ FROM mytable
 WHERE condition
   AND/OR another_condition
 ```
-<img src="./img/sqlConditions.png" width="500px" height="auto" />
+<img src="./../img/sqlConditions.png" width="500px" height="auto" />

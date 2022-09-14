@@ -1,7 +1,8 @@
 # Reading Notes
 
 ## Code 401
-[Prep Work Links]()
+[Prep Work Links](./notes401/PrepWork/PrepWorkLinks.md)
+
 The following is reading assignment notes for the Code Fellows Course, *Code 401 Full-Stack JavaScript*.
 
 ## Code 301
