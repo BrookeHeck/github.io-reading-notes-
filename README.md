@@ -1,5 +1,9 @@
 # Reading Notes
 
+## Code 401
+[Prep Work Links]()
+The following is reading assignment notes for the Code Fellows Course, *Code 401 Full-Stack JavaScript*.
+
 ## Code 301
 [301 Links](./notes301/cheat-sheets.md)
 
