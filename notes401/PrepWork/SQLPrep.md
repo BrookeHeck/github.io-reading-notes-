@@ -23,3 +23,5 @@ WHERE condition
   AND/OR another_condition
 ```
 <img src="./../img/sqlConditions.png" width="500px" height="auto" />
+
+test
