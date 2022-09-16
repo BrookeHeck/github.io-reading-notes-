@@ -1,5 +1,5 @@
 # SQL Pre Work Notes
-[SQL Bolt Tutorial](https://sqlbolt.com/lesson/introduction)
+Code Examples and Photos From [SQL Bolt Tutorial](https://sqlbolt.com/lesson/introduction)
 
 [Completed Tutorial Screenshots](#complete-tutorial-screenshots)
 ## Select Queries
@@ -116,8 +116,40 @@ WHERE ABS(particle_position) * 10.0 > 500;
   8. LIMIT / OFFSET - discard data outside of the range
 
 ## Inserting New Data
+- use insert statement and declare which table to write into, the columns of data to fill, and on or more rows to insert
+```
+INSERT INTO mytable
+(column, another_column, …)
+VALUES (value_or_expr, another_value_or_expr, …),
+      (value_or_expr_2, another_value_or_expr_2, …),
+      …;
+```
 
+## Updating Rows
+- Use the UPDATE statement and specify which tables, columns, and rows to update
+```
+UPDATE mytable
+SET column = value_or_expr, 
+    other_column = another_value_or_expr, 
+WHERE condition;
+```
 
+## Deleting Rows
+- use the DELETE statement to remove rows set which rows to be deleted using WHERE
+```
+DELETE FROM mytable
+WHERE condition;
+```
+
+## Creating Tables
+- create new database tables with CREATE TABLE statement
+```
+CREATE TABLE IF NOT EXISTS mytable (
+    column DataType TableConstraint DEFAULT default_value,
+    another_column DataType TableConstraint DEFAULT default_value,
+    …
+);
+```
 
 
 ### Complete Tutorial Screenshots
