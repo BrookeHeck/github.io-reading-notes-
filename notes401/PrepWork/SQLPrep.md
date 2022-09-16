@@ -1,7 +1,7 @@
 # SQL Pre Work Notes
 [SQL Bolt Tutorial](https://sqlbolt.com/lesson/introduction)
 
-[Completed Tutorial Screenshots](###CompleteTutorialScreenShots)
+[Completed Tutorial Screenshots](#CompleteTutorialScreenShots)
 ## Select Queries
 - a statement which declares what dta we are looking for, where to find it, and possibly how to transform
 - EXAMPLE:
@@ -96,6 +96,29 @@ WHERE ABS(particle_position) * 10.0 > 500;
   FROM mytable
   WHERE constraint_expression;
   ```
+  - We can use the HAVING clause with the GROUP BY clause to filter grouped rows from the result set
+  ```
+  SELECT group_by_column, AGG_FUNC(column_expression) AS aggregate_result_alias
+  FROM mytable
+  WHERE condition
+  GROUP BY column
+  HAVING group_condition;
+  ```
+
+## Query Order of Execution
+  1. FROM and JOINS - determine the total working data set
+  2. WHERE - only include data that satisfy constraint
+  3. GROUP BY - group based on common values
+  4. HAVING - only include data that satisfy constraint within the groups
+  5. SELECT - expressions within select are computed
+  6. DISTINCT - duplicate values are discarded
+  7. ORDER BY - data is sorted
+  8. LIMIT / OFFSET - discard data outside of the range
+
+## Inserting New Data
+
+
+
 
 ### Complete Tutorial Screen Shots
 <img src="./../img/sqlTutorials/tutorial1.png" width="200px" height="auto" />
