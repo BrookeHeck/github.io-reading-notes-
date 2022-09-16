@@ -1,7 +1,7 @@
 # SQL Pre Work Notes
 [SQL Bolt Tutorial](https://sqlbolt.com/lesson/introduction)
 
-[Completed Tutorial Screenshots](#CompleteTutorialScreenShots)
+[Completed Tutorial Screenshots](#complete-tutorial-screenshots)
 ## Select Queries
 - a statement which declares what dta we are looking for, where to find it, and possibly how to transform
 - EXAMPLE:
@@ -120,7 +120,7 @@ WHERE ABS(particle_position) * 10.0 > 500;
 
 
 
-### Complete Tutorial Screen Shots
+### Complete Tutorial Screenshots
 <img src="./../img/sqlTutorials/tutorial1.png" width="200px" height="auto" />
 <img src="./../img/sqlTutorials/tutorial2.png" width="200px" height="auto" />
 <img src="./../img/sqlTutorials/tutorial3.png" width="200px" height="auto" />
