@@ -1,5 +1,7 @@
 # SQL Pre Work Notes
 [SQL Bolt Tutorial](https://sqlbolt.com/lesson/introduction)
+
+[Completed Tutorial Screenshots](###CompleteTutorialScreenShots)
 ## Select Queries
 - a statement which declares what dta we are looking for, where to find it, and possibly how to transform
 - EXAMPLE:
@@ -80,7 +82,20 @@ AND/OR …;
 ```
 
 ## Queries with Expressions
-
+- expressions can use mathematical and string functions with basic arithmetic to transform values
+- each database has its own set of mathematical, string, and date functions
+```
+SELECT particle_speed / 2.0 AS half_particle_speed
+FROM physics_data
+WHERE ABS(particle_position) * 10.0 > 500;
+```
+  ### Aggregate Functions
+  - used to summarize information about a group of rows or data
+  ```
+  SELECT AGG_FUNC(column_or_expression) AS aggregate_description
+  FROM mytable
+  WHERE constraint_expression;
+  ```
 
 ### Complete Tutorial Screen Shots
 <img src="./../img/sqlTutorials/tutorial1.png" width="200px" height="auto" />
