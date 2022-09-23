@@ -5,6 +5,14 @@
 
 The following is reading assignment notes for the Code Fellows Course, *Code 401 Full-Stack JavaScript*.
 
+1. [Node Ecosystem](./notes401/class-01.md)
+2. [Express, NPM, TDD, CI/CD](./notes401/class-02.md)
+3. [Express REST API](./notes401/class-03.md)
+4. [Data Modeling](./notes401/class-04.md)
+5. [Implementation: Linked Lists](./notes401/class-05.md)
+6. [Authentication](./notes401/class-06.md)
+7. [Bearer Authorization](./notes401/class-07.md)
+
 ## Code 301
 [301 Links](./notes301/cheat-sheets.md)
 
