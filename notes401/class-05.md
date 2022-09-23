@@ -56,6 +56,7 @@
   - the Head is always the first node in the list
   - Big O for time would be O(n), worst case scenario the node we are looking for is at the end
   - Big O for space is O(1), no additional space is needed when already given a linked list
+
 ```
   ALGORITHM Includes (value)
   // INPUT <-- integer value
