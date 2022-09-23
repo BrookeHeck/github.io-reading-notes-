@@ -1,7 +1,5 @@
 # Implementation: Linked Lists
 
-## Summary
-
 ## BigO
 - Describes the efficiency of an algorithm/function
   - Running time - amount of time a function needs to complete
