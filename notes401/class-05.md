@@ -44,10 +44,52 @@
     - Big Theta
 
  - OVERVIEW
- 
+
  <img src='./img/ordersOfGrowth/bigo9.png' width='50%' width='50%' height='auto' >
 
 ## Linked Lists
+- Linked list is sequence of nodes that reference the next node
+- can be implemented as a singly or doubly linked list
+
+- Traversal: traversal of linked lists relies on Next
+  - while loops work well with linked lists because you can call next until you find the node your looking at
+  - if we try to traverse a node that is null, a NullReferenceException error is thrown
+  - the Current variable will tell us which node we are on in the traversal
+  - the Head is always the first node in the list
+  - Big O for time would be O(n), worst case scenario the node we are looking for is at the end
+  - Big O for space is O(1), no additional space is needed when already given a linked list
+```
+  ALGORITHM Includes (value)
+  // INPUT <-- integer value
+  // OUTPUT <-- boolean
+
+  Current <-- Head
+
+  WHILE Current is not NULL
+    IF Current.Value is equal to value
+      return TRUE
+
+    Current <-- Current.Next
+
+  return FALSE
+```
+
+  - Adding a Node
+    - be careful that every node in the list references the correct next node
+    - when adding nodes change the reference of the head node, and make the reference of the new node, the node that the head was previously referencing
+    - Big O will always be O(1) time and space because it takes the same amount of time and space
+
+  ```
+  ALGORITHM Add(newValue)
+  // INPUT <-- Value to add
+  // OUTPUT <-- No output
+
+  newNode <-- NEW Node
+  newNode.Value <-- newValue
+  newNode.Next <-- Head
+  Head <-- newNode
+  ```
+
 
 ## Things I want to learn more about
 
