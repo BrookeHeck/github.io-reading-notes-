@@ -1,4 +1,6 @@
 # Prep Work
+- [Data Structures and Algorithms](./dataStructuresAlgorithms.md)
+- [Engineering Readings](./engineerReadings.md)
 - [Typing Lessons](./typingLessons.md)
 - [SQL Notes](./SQLPrep.md)
 - [Linux Tutorial Notes](./linuxTutorials.md)
