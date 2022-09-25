@@ -2,7 +2,7 @@
 
 ## Discussion Questions
 1. What’s the one thing I bring to this career (and a potential employer) that nobody else can?
-    - I'm very organized, which sounds like a really simple thing, but it helps me keep track of code and structure it in a better way. I think attention to detail goes along with organization and helps with building bug-free code.
+    - I don't think my background in air transportation is going to help a whole lot as a software developer, but I think being a supervisor in the military has given me some skills that are essential to coding. The military preaches resilience and attention to detail and I think these are the two skills that help me the most when I'm writing code.
 
 2. What are 3 things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature?
     - start a white board of the specific feature that I'm trying to work on
