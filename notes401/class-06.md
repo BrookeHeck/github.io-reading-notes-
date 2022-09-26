@@ -1,7 +1,5 @@
 # Authentication
 
-## Summary
-
 ## Securing Passwords
 1. Explain to a non-technical friend how you would safely hash and store a password.
 - Hashing algorithms are one way encryption. This means that even though hashing algorithms have weaknesses, they are still good for storing passwords because if they are stolen, they can't be reversed. Passwords should always be hashed before they are stored.
@@ -28,6 +26,10 @@
 
 2. How should your error messaging respond (both HTTP and HTML)? Why?
 - The response should be generic and not give any clues to how the username and password are being validated.
+
+### Things I want to learn more about
+- I know hashing algorithms are non-reversible, but would like to know more how the algorithms work and why they can't be reversed.
+- I want to spend more time looking the OWASP site and learn how to make my applications more secure.
 
 ## Links
 [Securing Passwords with Bcrypt Hashing Function](https://thehackernews.com/2014/04/securing-passwords-with-bcrypt-hashing.html)
