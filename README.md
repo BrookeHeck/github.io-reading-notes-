@@ -12,6 +12,7 @@ The following is reading assignment notes for the Code Fellows Course, *Code 401
 5. [Implementation: Linked Lists](./notes401/class-05.md)
 6. [Authentication](./notes401/class-06.md)
 7. [Bearer Authorization](./notes401/class-07.md)
+8. [Access Control](./notes401//class-08.md)
 
 ## Code 301
 [301 Links](./notes301/cheat-sheets.md)
