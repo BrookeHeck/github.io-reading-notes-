@@ -13,8 +13,8 @@ The following is reading assignment notes for the Code Fellows Course, *Code 401
 6. [Authentication](./notes401/class-06.md)
 7. [Bearer Authorization](./notes401/class-07.md)
 8. [Access Control](./notes401/class-08.md)
-9. [Stacks](.notes401/stacks.md)
-10. [Queues](.notes401/queues.md)
+9. [Stacks](./notes401/stacks.md)
+10. [Queues](./notes401/queues.md)
 
 ## Code 301
 [301 Links](./notes301/cheat-sheets.md)
