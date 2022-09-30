@@ -11,7 +11,7 @@
 
 ## FILO and LIFO
 - First in Last Out - The first item added to the stack will be the last popped out of the stack
-- Last in First Out - This means that the last item added to the stack will be the first item popped out of the stack
+- Last in First Out - This means that the last item added to the queue will be the first out
 
 </br>
 
