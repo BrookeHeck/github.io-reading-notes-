@@ -15,6 +15,7 @@ The following is reading assignment notes for the Code Fellows Course, *Code 401
 8. [Access Control](./notes401/class-08.md)
 9. [Stacks](./notes401/stacks.md)
 10. [Queues](./notes401/queues.md)
+11. [Event Driven Applications](./notes401/class-11.md)
 
 ## Code 301
 [301 Links](./notes301/cheat-sheets.md)
