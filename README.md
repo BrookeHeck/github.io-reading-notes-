@@ -16,6 +16,10 @@ The following is reading assignment notes for the Code Fellows Course, *Code 401
 9. [Stacks](./notes401/stacks.md)
 10. [Queues](./notes401/queues.md)
 11. [Event Driven Applications](./notes401/class-11.md)
+12. [Socket.io](./notes401/class-12.md)
+12. [Message Queues](./notes401/class-13.md)
+12. [Event Driven Architecture](./notes401/class-14.md)
+12. [Trees](./notes401/trees.md)
 
 ## Code 301
 [301 Links](./notes301/cheat-sheets.md)
