@@ -17,9 +17,14 @@ The following is reading assignment notes for the Code Fellows Course, *Code 401
 10. [Queues](./notes401/queues.md)
 11. [Event Driven Applications](./notes401/class-11.md)
 12. [Socket.io](./notes401/class-12.md)
-12. [Message Queues](./notes401/class-13.md)
-12. [Event Driven Architecture](./notes401/class-14.md)
-12. [Trees](./notes401/trees.md)
+13. [Message Queues](./notes401/class-13.md)
+14. [Event Driven Architecture](./notes401/class-14.md)
+15. [Trees](./notes401/trees.md)
+16. [AWS Cloudless Servers](./notes401/class-16.md)
+17. [AWS S3 and Lambda](./notes401/class-17.md)
+18. [AWS API Gateway and Dynamo DB](./notes401/class-17.md)
+19. [AWS Events](./notes401/class-18.md)
+
 
 ## Code 301
 [301 Links](./notes301/cheat-sheets.md)
