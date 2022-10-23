@@ -2,6 +2,7 @@
 
 ## react hello world
 1. What are the building blocks of a React app?
+- 
 
 2. What is the difference between an element and a React component?
 
@@ -9,10 +10,19 @@
 
 ## introducing jsx
 1. What is JSX and why do we use it?
+- JSX is an extension to JavaScript, it is used with React to describe what the UI should look like
+- it looks like template language, but is really JS
+- we use JSX because it is a helpful visual aid when working with UI inside JS code
 
 2. Describe the process of embedding JavaScript expressions in JSX.
+- declare an element, and then you can put any valid js expression inside curly brackets within the element
+```js
+const name = 'Josh Perez';
+const element = <h1>Hello, {name}</h1>;
+```
 
 3. Is it safe to embed user input in JSX? Explain.
+- Yes, React DOM escapes any values embedded in JSX before rendering them
 
 ## rendering elements
 1. Explain what a React Component is to a non-technical friend.
