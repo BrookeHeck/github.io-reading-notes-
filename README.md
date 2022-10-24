@@ -22,8 +22,12 @@ The following is reading assignment notes for the Code Fellows Course, *Code 401
 15. [Trees](./notes401/trees.md)
 16. [AWS Cloudless Servers](./notes401/class-16.md)
 17. [AWS S3 and Lambda](./notes401/class-17.md)
-18. [AWS API Gateway and Dynamo DB](./notes401/class-17.md)
-19. [AWS Events](./notes401/class-18.md)
+18. [AWS API Gateway and Dynamo DB](./notes401/class-18.md)
+19. [AWS Events](./notes401/class-19.md)
+20. [Component Based UI](./notes401/class-26.md)
+21. [useState() Hook](./notes401/class-27.md)
+22. [Component Lifecycle / useEffect Hook](./notes401/class-28.md)
+23. [Advanced State with Reducers](./notes401/class-29.md)
 
 
 ## Code 301

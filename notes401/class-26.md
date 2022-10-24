@@ -1,12 +1,13 @@
 # Component Based UI
 
 ## react hello world
-1. What are the building blocks of a React app?
-- 
+1. What is the difference between an element and a React component?
+- component is a reusable building block of a UI
+- react element is something that describes DOM nodes and properties
 
-2. What is the difference between an element and a React component?
-
-3. What are some advantages of React’s component based architecture?
+2. What are some advantages of React’s component based architecture?
+- Components have the functionality of JavaScript, but are virtual representations of what appears on the UI
+- Components are reusable
 
 ## introducing jsx
 1. What is JSX and why do we use it?
@@ -26,10 +27,14 @@ const element = <h1>Hello, {name}</h1>;
 
 ## rendering elements
 1. Explain what a React Component is to a non-technical friend.
+- React components let you split the UI into independent and reusable pieces. It is like building a template of a house in a subdivision. A contractor will make a template for a house, and then when they want to build another house in the subdivision, they can reuse that template.
 
 2. Describe mutability and React Components, specifically, how is the UI updated?
+- React elements are immutable
+- React DOM compares the element and its children to the previous one and only updates the DOM where necessary
 
 3. If changes are made to the UI, what does React update?
+- ONly the text node whose contents have changed get updated by React DOM
 
 ### Links 
 [react hello world](https://reactjs.org/docs/hello-world.html)
