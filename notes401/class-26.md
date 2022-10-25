@@ -34,7 +34,7 @@ const element = <h1>Hello, {name}</h1>;
 - React DOM compares the element and its children to the previous one and only updates the DOM where necessary
 
 3. If changes are made to the UI, what does React update?
-- ONly the text node whose contents have changed get updated by React DOM
+- Only the text node whose contents have changed gets updated by React DOM
 
 ### Links 
 [react hello world](https://reactjs.org/docs/hello-world.html)
