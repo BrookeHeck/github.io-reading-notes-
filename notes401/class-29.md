@@ -9,7 +9,7 @@
 - Allows you to optimize performance for components that trigger deep updates because you can pass down dispatch instead of callbacks
 
 3. What are two ways to set the initial state?
-- pass the the initial state as a second argument
+- pass the initial state as a second argument
 - pass in an init function as a third argument
 
 ## Ultimate Guide to useReducer
