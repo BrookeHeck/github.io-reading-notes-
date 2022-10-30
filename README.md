@@ -28,6 +28,13 @@ The following is reading assignment notes for the Code Fellows Course, *Code 401
 21. [useState() Hook](./notes401/class-27.md)
 22. [Component Lifecycle / useEffect Hook](./notes401/class-28.md)
 23. [Advanced State with Reducers](./notes401/class-29.md)
+24. [Hash Tables](./notes401/hash-table.md)
+20. [Context API](./notes401/class-31.md)
+21. [Context API - Behaviors](./notes401/class-32.md)
+22. [<Login /> and <Auth />](./notes401/class-33.md)
+23. [API Integration](./notes401/class-34.md)
+24. [Graphs](./notes401/graphs.md)
+
 
 
 ## Code 301
