@@ -2,7 +2,7 @@
 
 ## Hooks and Context Example
 1. With regard to the React Context API, what does a “provider” do?
-- The provider gives all of it's children components access to 'global' variables
+- The provider gives all of its children components access to 'global' variables
 - The variables don't have to be passed down as props
 2. With regard to the React Context API, how would we implement a “consumer” role?
 - The children must be wrapped within the provider
