@@ -34,6 +34,13 @@ The following is reading assignment notes for the Code Fellows Course, *Code 401
 22. [Login and Auth](./notes401/class-33.md)
 23. [API Integration](./notes401/class-34.md)
 24. [Graphs](./notes401/graphs.md)
+25. [Application State with Redux](./notes401/class-36.md)
+26. [Redux - Combined Reducers](./notes401/class-37.md)
+27. [Redux - Asynchronous Actions](./notes401/class-38.md)
+28. [Redux - Additional Topics](./notes401/class-39.md)
+29. [React Native](./notes401/class-41.md)
+30. [Ethics](./notes401/class-42.md)
+31. [Open-Source Software Contribution](./notes401/class-43.md)
 
 
 
